@@ -1,0 +1,28 @@
+.header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+  border-bottom: 1px solid black;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.logo_and_site_name {
+  display: inline-flex;
+  align-items: flex-start;
+  color: MediumAquamarine;
+  padding: 0px 15px;
+}
+
+.site_name {
+  padding: 0 15px;
+}
+ .rubrics {
+  display: inline-flex;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+
+.rubric {
+  padding: 0 15px;
+}
