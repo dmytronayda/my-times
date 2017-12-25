@@ -8,8 +8,9 @@
   flex-wrap: wrap;
 }
 .logo_and_site_name {
-  display: inline-flex;
-  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: MediumAquamarine;
   padding: 0px 15px;
 }
@@ -19,6 +20,7 @@
 }
  .rubrics {
   display: inline-flex;
+  justify-content: center;
   align-items: flex-end;
   flex-wrap: wrap;
 }
