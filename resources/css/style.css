@@ -28,3 +28,24 @@
 .rubric {
   padding: 0 15px;
 }
+
+.main {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  align-items: flex-end;
+
+  border: 1px solid black;
+}
+
+.main_1 {
+  flex-grow: 2;
+}
+
+.main_2 {
+  flex-grow: 1;
+}
+
+.main_3 {
+  flex-grow: 1;
+}
