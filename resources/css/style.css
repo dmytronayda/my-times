@@ -50,6 +50,9 @@ div {
   align-items: flex-start;
   max-width: 1232px;
   margin: 0 auto 78px auto;
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
 }
 
 /* All columns styling*/
