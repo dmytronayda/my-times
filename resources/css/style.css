@@ -16,7 +16,7 @@
   align-items: center;
   color: MediumAquamarine;
   padding: 0px 15px;
-  border: 1px solid black;
+
 }
 
 .site_name {
@@ -38,7 +38,7 @@
 }
 /*All divs*/
 div {
-  border: 1px solid black;
+
 }
 
 /*main content box */
